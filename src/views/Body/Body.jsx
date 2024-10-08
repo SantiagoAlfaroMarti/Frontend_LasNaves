@@ -9,7 +9,7 @@ import { Person } from '../Person/Person';
 import { NotFound } from '../NotFound/NotFound';
 import { MyHistory } from '../MyHistory/Myhistory';
 import { Reserve } from '../Reserve/Reserve';
-import AccessHistory from '../accessHistory/accessHistory';
+import AccessHistory from '../AccessHistory/AccessHistory';
 import { GenerateReport } from '../GenerateReport/GenerateReport';
 import Administration from '../Administration/Administration';
 import { GetReport } from '../GetReport/GetReport';
