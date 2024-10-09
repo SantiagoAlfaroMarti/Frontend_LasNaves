@@ -30,55 +30,55 @@ export const Home = () => {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <img
-              alt="Espacio de trabajo colaborativo"
+              alt="Multi-purpose room"
               className="d-block carousel-image"
-              src="../../img/home1.jpg"
+              src="../../img/homeWork.jpg"
             />
             <div className="carousel-caption">
               <h5 className="animated bounceInRight" style={{ animationDelay: '1s' }}>
-                Espacios Innovadores
+                Cutting-edge areas
               </h5>
               <p
                 className="animated bounceInLeft d-none d-md-block"
                 style={{ animationDelay: '2s' }}
               >
-                Ven y transforma tu creatividad en acción en nuestros espacios colaborativos.
+                Join us and bring your ideas to reality in our collaborative environments.
               </p>
             </div>
           </div>
           <div className="carousel-item">
             <img
-              alt="Tecnología avanzada"
+              alt="Last generation"
               className="d-block carousel-image"
-              src="../../img/home2.jpg"
+              src="../../img/hometech.jpg"
             />
             <div className="carousel-caption">
               <h5 className="animated bounceInRight" style={{ animationDelay: '1s' }}>
-                Tecnología de Vanguardia
+                High performance and future
               </h5>
               <p
                 className="animated bounceInLeft d-none d-md-block"
                 style={{ animationDelay: '2s' }}
               >
-                Equipados con herramientas de última generación para llevar tus ideas al siguiente nivel.
+                Equipped with cutting-edge technology to propel your ideas to new horizons.
               </p>
             </div>
           </div>
           <div className="carousel-item">
             <img
-              alt="Comunidad colaborativa"
+              alt="Cooperative environment"
               className="d-block carousel-image"
-              src="../../img/home3.jpg"
+              src="../../img/homeComunity.jpg"
             />
             <div className="carousel-caption">
               <h5 className="animated bounceInRight" style={{ animationDelay: '1s' }}>
-                Comunidad Vibrante
+                Passionate collective
               </h5>
               <p
                 className="animated bounceInLeft d-none d-md-block"
                 style={{ animationDelay: '2s' }}
               >
-                Únete a una red de mentes creativas que comparten tu pasión.
+                Forma parte de un grupo de visionarios que comparten tu entusiasmo por la creatividad.
               </p>
             </div>
           </div>
