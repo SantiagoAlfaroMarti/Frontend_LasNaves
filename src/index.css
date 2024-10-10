@@ -7,6 +7,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 body {
   margin: 0;
   padding: 0;
@@ -31,11 +32,9 @@ body::before {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background: radial-gradient(circle at center, rgba(96, 77, 77, 0.6), rgba(95, 87, 87, 0.8)), url('../img/background.jpg');
-  background-blend-mode: overlay;
   z-index: -1;
 }
-p, th, td, tr, label, input, select, .btn, button, span, strong{
-  font-family: 'Nunito', sans-serif;
 
+p, th, td, tr, label, input, select, .btn, button, span, strong {
+  font-family: 'Nunito', sans-serif;
 }

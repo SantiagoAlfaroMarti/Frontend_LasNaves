@@ -78,7 +78,7 @@ export const Home = () => {
                 className="animated bounceInLeft d-none d-md-block"
                 style={{ animationDelay: '2s' }}
               >
-                Forma parte de un grupo de visionarios que comparten tu entusiasmo por la creatividad.
+                Join a community of innovators who share your passion for creativity.
               </p>
             </div>
           </div>
