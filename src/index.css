@@ -29,11 +29,10 @@
     background: 
       radial-gradient(circle at center, rgba(96, 77, 77, 0.6), rgba(95, 87, 87, 0.8)), 
       url('../img/background.jpg');
-    background-size: cover; /* Asegúrate de que la imagen cubra todo el área */
-    background-position: center; /* Centra la imagen */
-    background-repeat: no-repeat; /* Evita que la imagen se repita */
-    background-attachment: fixed; /* Mantiene la imagen fija al desplazarse */
-    z-index: -1;
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
 }
   p, th, td, tr, label, input, select, .btn, button, span, strong{
     font-family: 'Nunito', sans-serif;
