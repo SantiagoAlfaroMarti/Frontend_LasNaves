@@ -29,6 +29,9 @@ This frontend project is designed to provide a smooth and enjoyable experience, 
 ## Objetive 🚩
 
 This frontend platform is designed to simplify collaboration and space usage. Users can quickly access features like room reservations and track their activities through a clean, modern interface. Administrators have easy access to tools for monitoring facility usage, with charts and data that support informed decision-making. Additionally, the system is optimized to ensure that only authorized users gain access to the spaces, without compromising on ease of use or security.
+<br><br>
+<img width="400" alt="LasNaves" src="img/readme2.jpg">
+</a>
 
 ## Stack 🔧
 <div align="center">
