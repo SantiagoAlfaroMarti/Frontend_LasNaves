@@ -1,7 +1,5 @@
 const URL = 'http://localhost:4000/api/auth'
 
-//AUTH
-
 export const registerUser = async (credentials) => {
     try {
         const request = await fetch(`${URL}/register`, {

@@ -1,7 +1,5 @@
 const URL = 'http://localhost:4000/api/administration';
 
-//ADMINISTRATION
-
 export const generateDailyReport = async (token) => {
     try {
         const response = await fetch(`${URL}/daily-report`, {

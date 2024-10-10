@@ -1,7 +1,5 @@
 const URL = 'http://localhost:4000/api/rooms'
 
-//ROOM
-
 export const getCurrentRoomStatus = async (roomId, token) => {
     try {
         const response = await fetch(`${URL}/${roomId}/current-status`, {

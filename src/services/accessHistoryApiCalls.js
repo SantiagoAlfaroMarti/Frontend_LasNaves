@@ -1,7 +1,5 @@
 const URL = 'http://localhost:4000/api/access_histories';
 
-//ACCESS HISTORY
-
 function formatDate(date) {
     return date.toISOString().split('T')[0];
 }

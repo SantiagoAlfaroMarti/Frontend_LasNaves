@@ -1,7 +1,5 @@
 const URL = 'http://localhost:4000/api/accesses'
 
-//ACCESS
-
 export const registerEntry = async (data, token) => {
     try {
         const response = await fetch(`${URL}/entry`, {
