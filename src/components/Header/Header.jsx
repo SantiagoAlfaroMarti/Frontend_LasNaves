@@ -30,7 +30,7 @@ export const Header = () => {
                         navigate('/');
                     }}
                 >
-                    <span className="brand">NAVES</span>Col·lab
+                    <span className="brand">Las Naves</span>
                 </a>
                 <button
                     className="navbar-toggler"

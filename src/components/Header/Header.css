@@ -4,7 +4,7 @@
     top: 0;
     left: 0;
     right: 0;
-    background-color: rgba(50, 50, 50, 0.9);
+    background-color: rgba(189, 189, 189, 0.9);
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
     z-index: 1000;
 }
@@ -28,7 +28,7 @@
 
 .nav-item {
     margin-left: 15px;
-    color: #f0f0f0;
+    color: #0c0c0c;
     cursor: pointer;
     transition: color 0.2s ease-in-out;
     display: block;
@@ -38,7 +38,7 @@
 }
 
 .nav-item:hover {
-    color: #ff5722;
+    color: #a2670e;
 }
 
 .navbar-toggler {
@@ -69,7 +69,7 @@
 .logout:hover,
 .logout:focus,
 .brand {
-    color: #ff5722;
+    color: #0d0d0d;
     font-family: 'Arial', sans-serif;
 }
 
