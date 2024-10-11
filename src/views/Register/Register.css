@@ -49,7 +49,7 @@ html, body {
 }
 
 .register-button {
-    background-color: #007bff;
+    background-color: #dbde27;
     border: none;
     border-radius: 0.5rem;
     font-size: 1.1rem;
@@ -72,7 +72,7 @@ html, body {
 }
 
 .error-message {
-    color: #dc3545;
+    color: #b32533;
     font-size: 0.85rem;
     font-weight: bold;
     text-align: center;

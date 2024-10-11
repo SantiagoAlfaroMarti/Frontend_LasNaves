@@ -1,25 +1,25 @@
 .navbar {
-    padding: 1rem 1.5rem;
+    padding: 0.5rem 1rem; 
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
-    background-color: rgba(189, 189, 189, 0.9);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-    z-index: 1000;
+    background-color: rgba(245, 239, 239, 0.7);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 999;
 }
 
 .navbar-brand {
-    font-size: 1.6rem;
-    font-weight: normal;
-    color: #f0f0f0;
-    text-transform: lowercase;
-    transition: color 0.2s ease-in-out;
+    font-size: 1.4rem; 
+    font-weight: bold;
+    color: #ffffff;
+    text-transform: uppercase;
+    transition: color 0.3s ease;
     cursor: pointer;
 }
 
 .navbar-brand:hover {
-    color: #ff5722;
+    color: #090909;
 }
 
 .navbar-nav {
@@ -27,38 +27,38 @@
 }
 
 .nav-item {
-    margin-left: 15px;
-    color: #0c0c0c;
+    margin-left: 10px;
+    color: #080808;
     cursor: pointer;
-    transition: color 0.2s ease-in-out;
+    transition: color 0.3s ease;
     display: block;
     text-decoration: none;
-    font-weight: 500;
-    font-size: 1.1rem;
+    font-weight: 400;
+    font-size: 0.95rem; 
 }
 
 .nav-item:hover {
-    color: #a2670e;
+    color:  #e0eb19;
 }
 
 .navbar-toggler {
-    border-color: rgba(240, 240, 240, 0.2);
+    border-color: rgba(248, 230, 230, 0.1);
 }
 
 @media (max-width: 991px) {
     .navbar-nav {
         margin-left: 0;
-        margin-top: 15px;
+        margin-top: 10px;
         flex-direction: column;
-        text-align: left;
+        text-align: center;
         width: 100%;
         padding: 0;
     }
 
     .nav-item {
         margin-left: 0;
-        margin-bottom: 10px;
-        font-size: 1.2rem;
+        margin-bottom: 5px; 
+        font-size: 1rem; 
     }
 
     .navbar-collapse {
@@ -69,12 +69,13 @@
 .logout:hover,
 .logout:focus,
 .brand {
-    color: #0d0d0d;
-    font-family: 'Arial', sans-serif;
+    color:  #0a0a0a;
+    font-family: 'Merriweather', serif;
 }
+
 
 @media (max-width: 1200px) {
     .navbar-brand {
-        font-size: 1.4rem;
+        font-size: 1.2rem; /
     }
 }
