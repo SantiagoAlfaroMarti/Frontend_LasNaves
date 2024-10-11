@@ -43,7 +43,7 @@ export const Person = () => {
       <div className="person-container">
         {personData && (
           <div className="welcome-message text-center mb-4">
-            <h1 className="welcome-title">Welcome back,</h1>
+            <h1 className="welcome-title">Welcome,</h1>
             <h2 className="welcome-name">{personData.person.name}!</h2>
           </div>
         )}

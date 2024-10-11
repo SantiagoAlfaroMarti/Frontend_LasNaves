@@ -87,7 +87,7 @@ export const Reserve = () => {
     return (
         <div className="reserve-wrapper">
             <div className="reserve-container">
-                <h1 className="reserve-title text-center mb-2">Manage Reservations</h1>
+                <h1 className="reserve-title text-center mb-2">Reservations</h1>
                 {error && <p className="error-message text-center mb-3">{error}</p>}
                 
                 {activeReservation ? (

@@ -12,6 +12,7 @@ Hello, and thank you for checking out my Naves Coworking frontend project! I hop
     <li><a href="#objetive">Objetive</a></li>
     <li><a href="#stack">Stack</a></li>
     <li><a href="#local-installation">Local installation</a></li>
+    <li><a href="#views">Views</a></li>
     <li><a href="#future-functionalities️">Future functionalities</a></li>
     <li><a href="#development">Development</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -84,6 +85,14 @@ This frontend platform is designed to simplify collaboration and space usage. Us
 4. ``` $ npm run dev ``` 
 5. ``` $ We execute the migrations $ npm run migrate ``` 
 6. ``` $ We run the seeders $ npm run db:seed ``` 
+
+## Views 🎨
+
+<img style="display: block; margin: 0 auto;" width="400" alt="LasNaves" src="img/Home.jpg">
+
+<img style="display: block; margin: 0 auto;" width="400" alt="LasNaves" src="img/Login.jpg">
+
+<img style="display: block; margin: 0 auto;" width="400" alt="LasNaves" src="img/Register.jpg">
 
 ## Future functionalities 🔮
 - Personalized filtering options.

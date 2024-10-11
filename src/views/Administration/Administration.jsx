@@ -17,8 +17,8 @@ export const Administration = () => {
   return (
     <div className="admin-home-wrapper">
       <div className="admin-container">
-        <h2 className="admin-title">Administration Panel</h2>
-        <h3 className="admin-subtitle">Manage and generate reports for the access control system</h3>
+        <h2 className="admin-title">Administration Control</h2>
+        <h3 className="admin-subtitle">Access control system</h3>
         <div className="button-container">
           <button
             onClick={() => navigate('/generateReport')}

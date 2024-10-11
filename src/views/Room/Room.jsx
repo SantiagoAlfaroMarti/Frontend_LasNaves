@@ -50,8 +50,8 @@ export const Room = () => {
   return (
     <div className="room-wrapper">
       <div className="room-container">
-        <h1 className="room-title text-center mb-2">Room Status</h1>
-        <h2 className="room-subtitle text-center mb-2">Discover the rooms and all their information:</h2>
+        <h1 className="room-title text-center mb-2">Rooms</h1>
+        <h2 className="room-subtitle text-center mb-2">Search the rooms and all their information:</h2>
         {error && <p className="error-message text-center mb-3">{error}</p>}
         <div className="search-container mb-4">
           <input
