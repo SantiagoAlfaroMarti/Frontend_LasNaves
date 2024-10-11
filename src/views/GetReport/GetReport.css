@@ -1,0 +1,102 @@
+.get-report-wrapper {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    padding: 0 1em;
+    background-image: linear-gradient(to bottom, #f0f4f8, #e2e7ed);
+}
+
+.get-report-container {
+    width: 100%;
+    max-width: 320px;
+    padding: 2rem;
+    background-color: rgba(255, 255, 255, 0.95);
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.get-report-title {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+.get-report-subtitle {
+    color: #4a4a4a;
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.get-report-button {
+    background-color: #dbde27;
+    border: none;
+    border-radius: 0.5rem;
+    font-size: 1.1rem;
+    padding: 0.75rem;
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.get-report-button:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+.get-report-section {
+    margin-top: 30px;
+}
+
+.get-report-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.get-report-item {
+    background-color: white;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.get-report-item strong {
+    display: block;
+    margin-bottom: 0.3rem;
+}
+
+.get-report-item span {
+    display: block;
+    margin-bottom: 0.3rem;
+}
+
+.get-report-error {
+    color: #bc2837;
+    font-size: 0.85rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.get-report-load-more {
+    background-color: #e4e829;
+    border-color: #e4e829;
+    border-radius: 0.375rem;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s ease;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.get-report-load-more:hover {
+    background-color: #e4e829;
+}
+
+@media (max-width: 600px) {
+    .get-report-container {
+        width: 90%;
+        padding: 1.5rem;
+    }
+}

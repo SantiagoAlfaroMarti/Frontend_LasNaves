@@ -1,0 +1,70 @@
+.room-usage-wrapper {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    padding: 0 1em;
+    background-image: linear-gradient(to bottom, #f0f4f8, #e2e7ed);
+}
+
+.room-usage-container {
+    width: 100%;
+    max-width: 320px;
+    padding: 2rem;
+    background-color: rgba(255, 255, 255, 0.95);
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.room-usage-title {
+    color: #333;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+.room-usage-subtitle {
+  color: #4a4a4a;
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.room-usage-section-title {
+  color: 0 4px 8px rgba(3, 3, 3, 0.1);
+  font-size: 1.3rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.room-usage-error {
+  color: #bc2837;
+    font-size: 0.85rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.room-usage-loading {
+  color: #d7e325;
+  margin-bottom: 1rem;
+}
+
+.room-usage-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.room-usage-item {
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.room-usage-item h4 {
+  color: #2c3e50;
+  margin-bottom: 0.5rem;
+}
+
+.room-usage-item p {
+  margin-bottom: 0.3rem;
+}
