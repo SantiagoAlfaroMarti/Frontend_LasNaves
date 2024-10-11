@@ -26,12 +26,14 @@ Hello, and thank you for checking out my Naves Coworking frontend project! I hop
 This frontend project focuses on offering an intuitive and friendly interface that allows users to interact fluidly with the key functionalities of coworking. Through a modern and adaptable application, users will be able to easily manage their room reservations, monitor their arrivals and departures in real time, and access personalized reports that facilitate administrative decision making.
 
 This frontend project is designed to provide a smooth and enjoyable experience, focusing on simplicity and ease of use. From staff to administrators, every user can benefit from a platform that quickly responds to their needs. The integration with the backend is seamless for users, enabling hassle-free interaction and efficient task management in a collaborative environment.
+<br><br>
 <img style="display: block; margin: 0 auto;" width="400" alt="LasNaves" src="img/readme3.jpg">
 </a>
 
 ## Objetive 🚩
 
 This frontend platform is designed to simplify collaboration and space usage. Users can quickly access features like room reservations and track their activities through a clean, modern interface. Administrators have easy access to tools for monitoring facility usage, with charts and data that support informed decision-making. Additionally, the system is optimized to ensure that only authorized users gain access to the spaces, without compromising on ease of use or security.
+<br><br>
 <img style="display: block; margin: 0 auto;" width="400" alt="LasNaves" src="img/readme2.jpg">
 </a>
 
@@ -88,11 +90,11 @@ This frontend platform is designed to simplify collaboration and space usage. Us
 
 ## Views 🎨
 
-<img style="display: block; margin: 0 auto;" width="400" alt="LasNaves" src="img/Home.jpg">
+<img style="display: block; margin: 0 auto;" width="600" alt="LasNaves" src="img/Home.jpg">
 
-<img style="display: block; margin: 0 auto;" width="400" alt="LasNaves" src="img/Login.jpg">
+<img style="display: block; margin: 0 auto;" width="600" alt="LasNaves" src="img/Login.jpg">
 
-<img style="display: block; margin: 0 auto;" width="400" alt="LasNaves" src="img/Register.jpg">
+<img style="display: block; margin: 0 auto;" width="600" alt="LasNaves" src="img/Register.jpg">
 
 ## Future functionalities 🔮
 - Personalized filtering options.
